@@ -1,4 +1,4 @@
-console.log('\n---------------\nmy-tweets: see my latest tweets \nspotify-this-song: find songs from spotify \nmovie-this: find your movie \ndo-what-it-says: do what it says \n---------------\n ');
+console.log('this is loaded');
 
 var twitterKeys = {
   consumer_key: 'ggLH9xMc7QOEAdzV6IUPHDZ2x',
